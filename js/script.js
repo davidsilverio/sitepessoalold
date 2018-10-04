@@ -28,10 +28,10 @@ var interval = 5000;
 var holder1 = $(".alternatingmotd");
 var currentIndex = 0;
 
-function doIt() {
+function changeText() {
     holder1.html(options[currentIndex][0]);
     currentIndex = (currentIndex + 1) % options.length;
-    setTimeout(doIt, interval);
+    setTimeout(changeText, interval);
 }
 
-doIt();
+changeText();
