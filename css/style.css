@@ -95,7 +95,7 @@ header .nav ul li a.atual{
     margin: 10px 10px;
     display: inline-block;
 }
-.footer .footer-single p{
+.alternatingmotd p{
     margin: 10px 10px;
     display: inline-block;
 }
@@ -140,8 +140,16 @@ header .nav ul li a.atual{
 .portfoliopage .image-holder img{
     height: 100%;
     width: 100%;
+    cursor: pointer;
 }
-
+#modal-holder{
+    width: 100%;
+}
+#modal-holder img{
+    width: 70%;
+    margin: auto;
+    display: block;
+}
 /* CONTACT PAGE */
 .contact-holder{
     margin: 30px 0 30px 0;
