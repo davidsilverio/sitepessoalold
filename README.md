@@ -18,6 +18,7 @@ TODO:
 <li>Comprar um domínio para hospedagem do site;</li>
 <li>Hospedar o site em Hostgator;</li>
 <li>Search Engine Optimisation;</li>
+<li>Criar página de tecnologias usadas para criação do site (HTML5, Javascript7, etc...)</li>
 <li>Escrever textos pessoais para conteúdo do site;</li>
 <li>Converter o website para usar PHP&CodeIgniter;</li>
 <li>Fazer painel de administrador;</li>
