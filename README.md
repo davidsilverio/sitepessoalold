@@ -20,3 +20,4 @@ TODO:
 <li>Escrever textos pessoais para conteúdo do site;</li>
 <li>Converter o website para usar PHP&CodeIgniter;</li>
 <li>Fazer painel de administrador;</li>
+<li>Fazer seletor de linguagem no navbar</li>
