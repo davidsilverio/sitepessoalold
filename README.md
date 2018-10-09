@@ -1,6 +1,6 @@
 # sitepessoal
 
-<h1>Este é um projeto de site pessoal para mim (David Silvério)</h1>
+<h1>Este é um projeto de site pessoal para David Silvério</h1>
 <h2>Este site tem como objetivos:<h2>
 <ul>
   <li>Conter meu currículo completo;</li>
