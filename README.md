@@ -9,7 +9,8 @@
       <li>Redes sociais, além de meios de contato;</li>
       <li>Textos sobre mim.</li>
     </ul>
-  <li>Demonstrar minhas competências como proffisional na área de websites;</li>
+  <li>Demonstrar minhas competências como profisional na área de websites, além de outras áreas como edição de imagens;</li>
+  <li>Listar minhas competências e motivos para ser contratado</li>
   <li>Demonstrar meu conhecimento de lingua inglesa;</li>
  </ul>
  
