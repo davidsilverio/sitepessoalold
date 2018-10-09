@@ -1,17 +1,22 @@
 # sitepessoal
 
-Este é um projeto de site pessoal para mim (David Silvério), e tem como objetivos:
-*Conter meu currículo completo;
-*Informações pessoais como:
-  *Redes sociais, além de meios de contato;
-  *Textos sobre mim.
-*Demonstrar minhas competências como proffisional na área de websites;
-*Demonstrar meu conhecimento de lingua inglesa;
-
+<h1>Este é um projeto de site pessoal para mim (David Silvério)</h1>
+<h2>Este site tem como objetivos:<h2>
+<ul>
+  <li>*Conter meu currículo completo;</li>
+  <li>*Informações pessoais como:</li>
+    <ul>
+      <li>*Redes sociais, além de meios de contato;</li>
+      <li>*Textos sobre mim.</li>
+    </ul>
+  <li>*Demonstrar minhas competências como proffisional na área de websites;</li>
+  <li>*Demonstrar meu conhecimento de lingua inglesa;</li>
+ </ul>
+ 
 TODO:
-Comprar um domínio para hospedagem do site;
-Hospedar o site em Hostgator;
-Search Engine Optimisation;
-Escrever textos pessoais para conteúdo do site;
-Converter o website para usar PHP&CodeIgniter;
-Fazer painel de administrador;
+<li>Comprar um domínio para hospedagem do site;</li>
+<li>Hospedar o site em Hostgator;</li>
+<li>Search Engine Optimisation;</li>
+<li>Escrever textos pessoais para conteúdo do site;</li>
+<li>Converter o website para usar PHP&CodeIgniter;</li>
+<li>Fazer painel de administrador;</li>
