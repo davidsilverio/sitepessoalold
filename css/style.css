@@ -137,24 +137,9 @@ header .nav ul li a.atual{
 }
 
 /* PORTFOLIO PAGE */
-.portfoliopage .image-holder{
-    padding: 10px;
-    border: 1px solid;
-    border-radius: 10px;
-    margin: 10px 0;
-}
-.portfoliopage .image-holder img{
-    height: 100%;
-    width: 100%;
-    cursor: pointer;
-}
-#modal-holder{
-    width: 100%;
-}
-#modal-holder img{
-    width: 70%;
-    margin: auto;
-    display: block;
+.card-img-top{
+    height: 250px;
+    object-fit: cover;
 }
 /* CONTACT PAGE */
 .contact-holder{
