@@ -20,6 +20,7 @@ TODO:
 <li>Search Engine Optimisation;</li>
 <li>Criar página de tecnologias usadas para criação do site (HTML5, Javascript7, etc...)</li>
 <li>Escrever textos pessoais para conteúdo do site;</li>
+<li>Refazer portfolio e preview de imagens conforme exemplos do bootstrap</li>
 <li>Converter o website para usar PHP&CodeIgniter;</li>
 <li>Fazer painel de administrador;</li>
 <li>Fazer seletor de linguagem no navbar</li>
