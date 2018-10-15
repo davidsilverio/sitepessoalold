@@ -23,3 +23,13 @@ TODO:
 <li>Converter o website para usar PHP&CodeIgniter;</li>
 <li>Fazer painel de administrador;</li>
 <li>Fazer seletor de linguagem no navbar</li>
+
+
+<p>
+  Pallete:<br>
+  #1B1B1B - Eerie Black<br>
+  #3C1414 - Dark Sienna<br>
+  #696969 - Dim Gray<br>
+  #FAEBD7 - Moccasin<br>
+  #FAF0E6 - Linen<br>
+</p>
